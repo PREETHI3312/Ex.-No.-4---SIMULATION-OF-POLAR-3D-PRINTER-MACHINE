@@ -27,14 +27,18 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/02a95729-8255-43e1-88a3-0b3e225000a3)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/7d097763-9ada-47fa-aa9c-a8ede6dd77ce)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/5de4280c-070e-4ded-bdeb-8b2ad3c645c6)
+
+
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:A K PREETHI
+### Register Number:23013312
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.

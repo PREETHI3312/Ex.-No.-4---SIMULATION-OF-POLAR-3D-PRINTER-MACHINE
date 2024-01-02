@@ -26,19 +26,17 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/7f35ad65-322f-41f4-ab87-8273c6860c18)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/8a01b728-9dd9-4d39-b3b7-4acdf74a1f27)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/7352a2d9-71fa-499b-8ee6-065c4d396314)
+![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/9b55ab5b-bb3f-481f-9bc4-5f814ae7c7db)
 
-![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/02a95729-8255-43e1-88a3-0b3e225000a3)
-![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/7d097763-9ada-47fa-aa9c-a8ede6dd77ce)
-![image](https://github.com/PREETHI3312/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151625222/5de4280c-070e-4ded-bdeb-8b2ad3c645c6)
 
 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
-## Output:
 
 ### Name:A K PREETHI
-### Register Number:23013312
+### Register Number:212223230156
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
